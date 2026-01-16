@@ -10,13 +10,13 @@ Make sure you have the following installed on your machine:
 ## Clone the Repository
 
 Open a terminal and run:
-git clone https://github.com/Iz-fa/https://github.com/Iz-fa/Chatbot.git
+git clone https://github.com/Iz-fa/Chatbot.git
 
 Navigate into the project folder:
-cd chatbot-project
+cd Chatbot/chatbot-project
 
 Run:
 npm install
 npm run dev
 
-Then open the link
+Then open the link to open the website localy
