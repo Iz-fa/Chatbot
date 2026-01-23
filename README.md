@@ -21,6 +21,8 @@ cd Chatbot/chatbot-project
 
 Run:
 npm install
+
+Run:
 npm run dev
 
 Then open the link to open the website localy
