@@ -5,13 +5,14 @@ The website is already published and can be opened here: https://iz-fa.github.io
 
 In case of cloning the project (Running it locally), please follow the steps bellow
 
+
+## Clone the Repository
+
 Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
 - npm (comes with Node.js)
 - Git
-
-## Clone the Repository
 
 Open a terminal and run:
 git clone https://github.com/Iz-fa/Chatbot.git
@@ -25,4 +26,4 @@ npm install
 Run:
 npm run dev
 
-Then open the link to open the website locally
+Now you can copy the localhost link and paste it in your browser to open the website locally.
