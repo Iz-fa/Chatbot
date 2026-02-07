@@ -13,7 +13,7 @@ The project focuses on frontend development, React component structure, and stat
 - Lightweight and easy to deploy on static hosting platforms
 
 ## Live Demo
-👉 [View Live Demo](iz-fa.github.io/Chatbot/)
+👉 [View Live](iz-fa.github.io/Chatbot/)
 
 ## Cloning the repository
 Make sure you have the following installed on your machine:
