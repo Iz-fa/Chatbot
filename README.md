@@ -1,13 +1,21 @@
-# Chatbot
-A simple Chatbot that can be asked some questions.
+# Web-Based Chatbot
+A simple web-based chatbot built with React that provides predefined responses.
+The project focuses on frontend development, React component structure, and static deployment.
 
-The website is already published and can be opened here: https://iz-fa.github.io/Chatbot/. 
+## Tech Stack
+- React (JSX)
+- JavaScript (ES Modules)
+- GitHub Pages (deployment)
 
-In case of cloning the project (Running it locally), please follow the steps bellow
+## Features
+- Predefined response logic imported from a local library
+- Pure frontend application, no backend required
+- Lightweight and easy to deploy on static hosting platforms
 
+## Live Demo
+👉 [View Live Demo](iz-fa.github.io/Chatbot/)
 
-## Clone the Repository
-
+## Cloning the repository
 Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
@@ -15,15 +23,10 @@ Make sure you have the following installed on your machine:
 - Git
 
 Open a terminal and run:
+```bash
 git clone https://github.com/Iz-fa/Chatbot.git
-
-Navigate into the project folder:
 cd Chatbot/chatbot-project
-
-Run:
 npm install
-
-Run:
 npm run dev
-
+```
 Now you can copy the localhost link and paste it in your browser to open the website locally.
